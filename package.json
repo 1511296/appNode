@@ -1,0 +1,25 @@
+{
+  "name": "appnode",
+  "version": "1.0.0",
+  "description": "segundo proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1511296/appNode.git"
+  },
+  "keywords": [
+    "12345678"
+  ],
+  "author": "simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1511296/appNode/issues"
+  },
+  "homepage": "https://github.com/1511296/appNode#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
